@@ -1,6 +1,6 @@
 package edu.kh.variable.ex1;
 
-public class VariablExample2 {
+public class VariableExample2 {
 
 	public static void main(String[] args) {
 		
@@ -31,7 +31,7 @@ public class VariablExample2 {
 		
 		float fNum ; // 실수형 변수 4byte 할당
 		
-		double dNum; // 실수형 변수 8byte 할당
+		double dNum; // 실수형 변수 8byte 할당 
 		
 		char ch1; // 문자형 변수 2byte 할당
 		char ch2; // 문자형 변수 2byte 할당

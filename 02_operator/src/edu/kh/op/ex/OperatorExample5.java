@@ -1,7 +1,7 @@
 package edu.kh.op.ex;
 
 import java.util.Scanner;
-public class OperatorExamole5 {
+public class OperatorExample5 {
  public static void main(String[] args) {
 	 
 	 // 복합 대입 연산자 : +=, -=, *=, /=, %=

@@ -30,7 +30,7 @@ public class LoopRun {
 	  
 	 // whileEx.ex1();
 	 // whileEx.ex2();
-	  whileEx.ex3();
+	 // whileEx.ex3();
 	 // whileEx.ex4();
 	 // whileEx.ex3();
 	  

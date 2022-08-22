@@ -25,7 +25,7 @@ public class OperatorExample4 {
  // b는 1부터 10 사이의 정수인가?
   boolean result3 = 1 <= b ;  // b는 1 이상인가?
   
-  boolean result4 = b <= 10 ; // bsms 10 이하인가?
+  boolean result4 = b <= 10 ; // b는 10 이하인가?
   
   System.out.println("b는 1부터 10사이의 정수인가? " + (result3 && result4));
   
