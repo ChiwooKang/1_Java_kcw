@@ -10,6 +10,6 @@ public class ExampleRun {
 	//	exam1.ex1();
 	//	exam1.ex2();
 	//	exam1.ex3();
-		exam1.ex4();
+	//	exam1.ex4();
 	}
 }
